@@ -21,7 +21,7 @@ The purpose of this repository is to allow me to reinstall everything efficientl
 * Shadow
 * LibreScore
 * Authy Desktop
-* Davicin Resolve
+* Davinci Resolve
 * Blender
 
 ### Coding Tools
