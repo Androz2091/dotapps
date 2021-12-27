@@ -20,12 +20,12 @@ The purpose of this repository is to allow me to reinstall everything efficientl
 * FL Studio
 * Shadow
 * LibreScore
+* Authy Desktop
 
 ### Coding Tools
 
 * iTerm
 * Termius
-* Authy Desktop
 * GitHub Desktop
 * Node
 * Docker
@@ -52,7 +52,6 @@ The purpose of this repository is to allow me to reinstall everything efficientl
 
 ### Main Apps
 
-* ARTE
 * Authy
 * Bonjour RATP / Ticket Easy / Tisséo
 * Canva
