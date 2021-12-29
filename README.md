@@ -37,7 +37,6 @@ The purpose of this repository is to allow me to reinstall everything efficientl
   - Material Icons
 * Postman
 * Proxyman
-* FileZilla
 * Windscribe
 
 ## 🌐 My Chrome extensions
